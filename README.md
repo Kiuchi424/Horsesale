@@ -1,3 +1,6 @@
 # Horsesale
 
-Horsesale provides a list of horses listed at Japanese horse sales and the number of horses listed by sire.
+Horsesale displays the number of horses listed at Japanese horse sales by sire.<b>
+To use it, you must fill in the URL from the JBIS Search page. In JBIS Search, the list of horses for sale is uploaded just before the actual day of the sale.<b>
+https://www.jbis.or.jp/seri/result/?year=2022&x=68&y=18 <b>
+
